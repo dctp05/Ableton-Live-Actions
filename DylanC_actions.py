@@ -7,6 +7,8 @@
 # cycle through different layouts depending on what I am working on, such as having one map for when I am recording,
 # and another map for when I'm editing notes in a MIDI track.
 
+# I am actually doing this on Obsidian damn
+
 from ClyphX_Pro.clyphx_pro.UserActionsBase import UserActionsBase
 
 # I've set up my default project template to have different groups of tracks, and because audio tracks are
